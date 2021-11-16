@@ -13,3 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simorr98&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/Simorr98?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)

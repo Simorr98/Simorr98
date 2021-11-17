@@ -1,3 +1,8 @@
+### Hi there 👋 mi name is Simo
+
+- 🌱 I’m currently learning java.
+- 👯 I’m looking to collaborate on great proyects.
+
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simorr98)

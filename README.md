@@ -17,7 +17,7 @@
 
 ## Github Achievements
 
-[![Simo GitHub stats](https://github-readme-stats.vercel.app/api?username=Simorr98&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Simorr98/github-readme-stats)
+[![Simo GitHub stats](https://github-readme-stats.vercel.app/api?username=Simorr98&count_private=true&show_icons=true&theme=tokyonight)]
 
 ## Metrics
 

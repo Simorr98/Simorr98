@@ -1,4 +1,4 @@
-### Hi there 👋 mi name is Simo
+### Hi there 👋 my name is Simo
 
 - 🌱 I’m currently learning java.
 - 👯 I’m looking to collaborate on great proyects.

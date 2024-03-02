@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Simo
 
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Full Stack.
 - 👯 I’m looking to collaborate on great proyects.
 
 ## 📫 How to reach me
